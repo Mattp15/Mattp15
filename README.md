@@ -13,3 +13,13 @@
 <li>Fitness</li>
 </ul>
 </ul>
+
+<h2>What's Ahead for My Journey</h2>
+I'm practicing methods, syntax and structure startegies in javascript to prepare to conqure React. In my short term sylabus is also building debugging suites, utalizing Mocha:
+<ul>
+<li>Setup, Exercise and Verity</li>
+<li>Teardown</li>
+<li>Hooks</li>
+</ul>
+
+I hungry to learn, from people younger and older than myself. I have no room for ego... For a better tomorrow....
