@@ -22,4 +22,3 @@ I'm practicing methods, syntax and structure startegies in javascript to prepare
 <li>Hooks</li>
 </ul>
 
-I hungry to learn, from people younger and older than myself. I have no room for ego... For a better tomorrow....
