@@ -17,8 +17,10 @@
 <h2>What's Ahead for My Journey</h2>
 I'm practicing methods, syntax and structure startegies in javascript to prepare to conqure React. In my short term sylabus is also building debugging suites, utalizing Mocha:
 <ul>
-<li>Setup, Exercise and Verity</li>
-<li>Teardown</li>
-<li>Hooks</li>
+<li>C# Basics and intermediate</li>
+<li>and using Unity</li>
+<li>Linear Algebra/Statistics/Calculus</li>
+<li>C++ Basics and intermediate</li>
+<li>Unreal Engine 5</li
 </ul>
 
