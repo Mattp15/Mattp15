@@ -15,7 +15,7 @@
 </ul>
 
 <h2>What's Ahead for My Journey</h2>
-I'm practicing methods, syntax and structure startegies in javascript to prepare to conqure React. In my short term sylabus is also building debugging suites, utalizing Mocha:
+My targeted goals include:
 <ul>
 <li>C# Basics and intermediate</li>
 <li>Unity</li>
