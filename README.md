@@ -18,7 +18,7 @@
 I'm practicing methods, syntax and structure startegies in javascript to prepare to conqure React. In my short term sylabus is also building debugging suites, utalizing Mocha:
 <ul>
 <li>C# Basics and intermediate</li>
-<li>and using Unity</li>
+<li>Unity</li>
 <li>Linear Algebra/Statistics/Calculus</li>
 <li>C++ Basics and intermediate</li>
 <li>Unreal Engine 5</li
