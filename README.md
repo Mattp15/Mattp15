@@ -4,8 +4,8 @@
 
 <h2>My Arena</h2>
 <ul>
-<li>Duel learning full stack front end development utilizing React, alongside Python and C++ to pursue my passions towards the gaming industry</li>
-<li>I pride myself on being inclusive and supportive of any and all persons and lifestyles</li>
+<li>Duel learning full stack front end development utilizing React, alongside Python_Flask and Express.js on for backend-development</li>
+
 <li>My areas of interest for collaborations include, but are not limited to
 <ul><li>Gaming</li>
 <li>Human rights</li>
