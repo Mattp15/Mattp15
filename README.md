@@ -1,4 +1,4 @@
-<h1>Hello 🤘</h1>
+<h1>Hello</h1>
 
 <p>I am a Reach web developer and forever learner attending General Assembly. If you would like to work together please do not hesitate to contact me!</p>
 
