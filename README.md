@@ -2,25 +2,9 @@
 
 <p>I am a Reach web developer and forever learner attending General Assembly. If you would like to work together please do not hesitate to contact me!</p>
 
-<h2>My Arena</h2>
-<ul>
-<li>Duel learning full stack front end development utilizing React, alongside Python_Flask and Express.js on for backend-development</li>
+Technical Skills:
+JavaScript | React | React Native | Redux | MongoDB | HTML | CSS | Node | Express | Firebase TestTrack | SpiraTeam | Jest | Mocha | Django | Canvas | SQL | PostgreSQL | TypeScript | PHP | Python3 | Flask | Django 
 
-<li>My areas of interest for collaborations include, but are not limited to
-<ul><li>Gaming</li>
-<li>Human rights</li>
-<li>Nutrition</li>
-<li>Fitness</li>
-</ul>
-</ul>
 
-<h2>What's Ahead for My Journey</h2>
-My targeted goals include:
-<ul>
-<li>C# Basics and intermediate</li>
-<li>Unity</li>
-<li>Linear Algebra/Statistics/Calculus</li>
-<li>C++ Basics and intermediate</li>
-<li>Unreal Engine 5</li
-</ul>
+
 
